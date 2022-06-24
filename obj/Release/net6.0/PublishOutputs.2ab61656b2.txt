@@ -1,0 +1,7 @@
+/Users/antonlysina/Work/_UNICORN/git/templates/BEL/helloworld/bin/Release/net6.0/publish/helloworld
+/Users/antonlysina/Work/_UNICORN/git/templates/BEL/helloworld/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/antonlysina/Work/_UNICORN/git/templates/BEL/helloworld/bin/Release/net6.0/publish/appsettings.json
+/Users/antonlysina/Work/_UNICORN/git/templates/BEL/helloworld/bin/Release/net6.0/publish/helloworld.dll
+/Users/antonlysina/Work/_UNICORN/git/templates/BEL/helloworld/bin/Release/net6.0/publish/helloworld.deps.json
+/Users/antonlysina/Work/_UNICORN/git/templates/BEL/helloworld/bin/Release/net6.0/publish/helloworld.runtimeconfig.json
+/Users/antonlysina/Work/_UNICORN/git/templates/BEL/helloworld/bin/Release/net6.0/publish/helloworld.pdb
